@@ -1,5 +1,5 @@
 # Ray_Repo
 
-## Editing the file
+## Python Project for Data Science - IBM
 
-This is a markdown file in this repository
+Development of IBM's Python for Data Science project.
